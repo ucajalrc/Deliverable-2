@@ -19,7 +19,7 @@ You can add users, create connections, store profiles, measure user influence, a
 - **`deliverable-2-report.docx`** 
   Your project report: explains design, demonstration, challenges, and next steps.
 
-## ▶️ How to Run
+## How to Run
 
 1. **Install Python 3.x** (any modern version will work).
 
